@@ -1,0 +1,14 @@
+{
+  "name": "typescript-examples",
+  "version": "1.0.0",
+  "description": "Typescript examples from my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soham Kamani",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
